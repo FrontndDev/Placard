@@ -1,0 +1,1 @@
+export {profileModel} from './model'
